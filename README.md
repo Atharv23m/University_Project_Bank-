@@ -48,3 +48,6 @@ To run the Grievance Portal locally, follow these steps:
 11. Open any browser and type http://localhost/ums.
 12. First register and then login
 13. Admin login details - username = ADMIN and Password=admin.
+
+# Demo 
+Link - https://youtu.be/PxByUOxC5h8
