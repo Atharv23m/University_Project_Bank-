@@ -25,7 +25,7 @@ The University Project Bank is designed to streamline the management and collabo
 
 This project is contributed by the following team members:
 
-- PArnik Roy
+- Arnik Roy
 - Harsh Tirhekar
 - Atharv Badgujar
 - Atul B Raj
